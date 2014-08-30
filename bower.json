@@ -1,0 +1,24 @@
+{
+  "name": "drp-if-directive-support",
+  "main": "drp-if-directive-support.js",
+  "version": "0.0.0",
+  "authors": [
+    "David Rodenas <david.rodenas@gmail.com>"
+  ],
+  "description": "An AngularJS support service that allows to build if-like directives.",
+  "keywords": [
+    "angularjs",
+    "ngIf",
+    "directive",
+    "support"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/drpicox/drp-if-directive-support",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
